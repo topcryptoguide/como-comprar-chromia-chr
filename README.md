@@ -1,1 +1,3 @@
-# como-comprar-chromia-chr
+[**Cómo comprar Chromia (CHR)**](https://topcryptoguide.com/como-comprar-chromia-chr/)
+
+Este artículo explica **cómo comprar Chromia (CHR)**, la criptomoneda nativa de la blockchain Chromia, diseñada para soportar **aplicaciones descentralizadas con escalabilidad y rendimiento elevados** mediante una arquitectura relacional única. Para adquirir CHR normalmente debes **crear una cuenta en un exchange confiable donde esté listado** (por ejemplo Binance, KuCoin o Gate.io), **verificar tu identidad** si corresponde y **depositar fondos** mediante transferencia bancaria, tarjeta o stablecoins como USDT para luego ejecutar la compra en el mercado spot. Algunas plataformas también permiten **comprar CHR directamente con tarjeta de crédito/débito** o mediante métodos alternativos según disponibilidad. Tras la compra, se recomienda **mover tus tokens a un wallet seguro** donde controles tus claves privadas para proteger tus activos digitales.
